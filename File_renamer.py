@@ -5,10 +5,10 @@ from datetime import datetime
 
 
 # Folder where your test files are
-source_folder = r"C:\Users\DS4Y Cohort 4\Downloads\test_data"
+source_folder = r"test_data"
 
 # Destination folder where organized files will be stored
-destination_folder = r"C:\Users\DS4Y Cohort 4\Downloads\organized_data"
+destination_folder = r"organized_data"
 # File categories (you can expand this dictionary as needed)
 file_types = {
     "Images": [".jpg", ".jpeg", ".png"],
